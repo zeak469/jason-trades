@@ -19,7 +19,7 @@ function App() {
             <Nav className="mr-auto">
               <Nav.Link href="home">Home</Nav.Link>
               <Nav.Link href="servers">Servers</Nav.Link>
-              <Nav.Link href="features">Jason?</Nav.Link>
+              <Nav.Link href="features">Jason</Nav.Link>
             </Nav>
       </Navbar>
       <Switch>
